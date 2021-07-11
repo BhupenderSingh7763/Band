@@ -1,0 +1,57 @@
+body
+{
+  background-image: url("images/background.jpg");
+  text-align: center;
+}
+
+.heading
+{
+  font-family: 'Otomanopee One', sans-serif;
+  font-size: 5rem;
+  color: #39A2DB;
+  padding-top: 50px;
+  margin-bottom: 100px;
+}
+
+.bttn
+{
+  background-color: #CDF0EA;
+  font-size: 5rem;
+  padding: 56px 10px 10px 90px;
+  margin: 25px;
+}
+
+.z
+{
+  background-image: url("images/drum1.png");
+}
+
+.x
+{
+  background-image: url("images/drum2.png");
+}
+
+.c
+{
+  background-image: url("images/drum3.png");
+}
+
+.v
+{
+  background-image: url("images/drum4.png");
+}
+
+.b
+{
+  background-image: url("images/crash.png");
+}
+
+.n
+{
+  background-image: url("images/kick.png");
+}
+
+.m
+{
+  background-image: url("images/snare.png");
+}
